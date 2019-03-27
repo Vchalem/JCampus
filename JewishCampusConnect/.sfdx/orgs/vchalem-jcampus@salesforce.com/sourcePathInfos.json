@@ -1,0 +1,92 @@
+[
+    [
+        "/Users/vchalem/JCampus/JewishCampusConnect/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/JCampus/JewishCampusConnect/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1553481531225,
+            "changeTime": 1553481531225,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/vchalem/JCampus/JewishCampusConnect/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/JCampus/JewishCampusConnect/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1553481531228,
+            "changeTime": 1553481531228,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/JCampus/JewishCampusConnect/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/JCampus/JewishCampusConnect/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1553481536663,
+            "changeTime": 1553481536663,
+            "contentHash": "a5268e07d03ac14cf4fc1b50a786349ef6f22ea0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/JCampus/JewishCampusConnect/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/JCampus/JewishCampusConnect/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1553481336112,
+            "changeTime": 1553481336112,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/JCampus/JewishCampusConnect/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/JCampus/JewishCampusConnect/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1553481336112,
+            "changeTime": 1553481336112,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/JCampus/JewishCampusConnect",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/JCampus/JewishCampusConnect",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1553481526134,
+            "changeTime": 1553481526134,
+            "contentHash": "b12313919584842854d6b3ec7d3b56c30f769c53",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

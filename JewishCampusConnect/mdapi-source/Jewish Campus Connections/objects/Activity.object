@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>Follow_Up_Notes__c</fullName>
+        <deprecated>false</deprecated>
+        <externalId>false</externalId>
+        <label>Follow Up Notes</label>
+        <required>false</required>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Follow_Up__c</fullName>
+        <deprecated>false</deprecated>
+        <externalId>false</externalId>
+        <label>Follow Up</label>
+        <required>false</required>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Interaction_Type__c</fullName>
+        <deprecated>false</deprecated>
+        <externalId>false</externalId>
+        <label>Interaction Type</label>
+        <required>false</required>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Phone Call</fullName>
+                    <default>false</default>
+                    <label>Phone Call</label>
+                </value>
+                <value>
+                    <fullName>One-on-one Meeting</fullName>
+                    <default>false</default>
+                    <label>One-on-one Meeting</label>
+                </value>
+                <value>
+                    <fullName>Met for Coffee</fullName>
+                    <default>false</default>
+                    <label>Met for Coffee</label>
+                </value>
+                <value>
+                    <fullName>Met for Lunch</fullName>
+                    <default>false</default>
+                    <label>Met for Lunch</label>
+                </value>
+                <value>
+                    <fullName>Messaging</fullName>
+                    <default>false</default>
+                    <label>Messaging</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Spiritual_Milestone__c</fullName>
+        <deprecated>false</deprecated>
+        <externalId>false</externalId>
+        <label>Spiritual Milestone</label>
+        <required>false</required>
+        <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Tefillin</fullName>
+                    <default>false</default>
+                    <label>Tefillin</label>
+                </value>
+                <value>
+                    <fullName>Mezuzah</fullName>
+                    <default>false</default>
+                    <label>Mezuzah</label>
+                </value>
+                <value>
+                    <fullName>Shabbat Candles</fullName>
+                    <default>false</default>
+                    <label>Shabbat Candles</label>
+                </value>
+                <value>
+                    <fullName>Learning</fullName>
+                    <default>false</default>
+                    <label>Learning</label>
+                </value>
+                <value>
+                    <fullName>Dvar Torah</fullName>
+                    <default>false</default>
+                    <label>Dvar Torah</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+</CustomObject>
